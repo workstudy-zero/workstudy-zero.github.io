@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://workstudy-zero.github.io/posts/test-post/</loc>
+<lastmod>2022-04-05T13:40:00+08:00</lastmod>
+</url>
+<url>
+<loc>https://workstudy-zero.github.io/posts/test-draft/</loc>
+<lastmod>2022-04-05T13:41:00+08:00</lastmod>
+</url>
+<url>
+<loc>https://workstudy-zero.github.io/categories/</loc>
+<lastmod>2022-04-05T13:46:04+08:00</lastmod>
+</url>
+<url>
+<loc>https://workstudy-zero.github.io/tags/</loc>
+<lastmod>2022-04-05T13:46:04+08:00</lastmod>
+</url>
+<url>
+<loc>https://workstudy-zero.github.io/archives/</loc>
+<lastmod>2022-04-05T13:46:04+08:00</lastmod>
+</url>
+<url>
+<loc>https://workstudy-zero.github.io/about/</loc>
+<lastmod>2022-04-05T13:46:04+08:00</lastmod>
+</url>
+<url>
+<loc>https://workstudy-zero.github.io/</loc>
+</url>
+</urlset>
